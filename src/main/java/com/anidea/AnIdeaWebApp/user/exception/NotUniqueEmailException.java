@@ -1,4 +1,4 @@
-package com.anidea.AnIdeaWebApp.user;
+package com.anidea.AnIdeaWebApp.user.exception;
 
 
 import com.anidea.AnIdeaWebApp.shared.Messages;
